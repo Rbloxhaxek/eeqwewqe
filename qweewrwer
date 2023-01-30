@@ -12,7 +12,7 @@ local function Debug(...)
             Str = Str .. " " ..tostring(Arg)
         end
         rconsolewarn(Str)
-        wait(1.5)
+     
     end
 end
 
